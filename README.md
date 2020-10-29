@@ -1,4 +1,5 @@
 You will need to create server methods to call the various arrest animations so that they are network sync'd.
+[Preview](https://youtu.be/4o7rNYITP_4)
 
 e.g. Client
 		private static async void HandleToggleCuffsWithAnimation( string data ) {
