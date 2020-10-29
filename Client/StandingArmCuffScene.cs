@@ -26,12 +26,12 @@ using System;
 using System.Threading.Tasks;
 using CitizenFX.Core;
 using CitizenFX.Core.Native;
-using FamilyRP.Roleplay.Client.Classes.Jobs.Police;
-using FamilyRP.Roleplay.Client.Classes.Player;
-using FamilyRP.Roleplay.Client.Enums;
-using FamilyRP.Roleplay.SharedClasses;
+using Roleplay.Client.Classes.Jobs.Police;
+using Roleplay.Client.Classes.Player;
+using Roleplay.Client.Enums;
+using Roleplay.SharedClasses;
 
-namespace FamilyRP.Roleplay.Client.Classes.Actions.CopAnimations
+namespace Roleplay.Client.Classes.Actions.CopAnimations
 {
 	public class StandingArmCuffScene
 	{
